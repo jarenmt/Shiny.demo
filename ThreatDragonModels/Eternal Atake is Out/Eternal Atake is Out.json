@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Eternal Atake is Out",
+    "owner": "Jaren",
+    "description": "This is a threat model of a basic web application."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "web_app",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Lil Uzi Vert"
+  }
+}
